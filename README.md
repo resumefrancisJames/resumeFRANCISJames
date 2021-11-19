@@ -6,7 +6,7 @@ Ressources :
 <br>
 <h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html">Résumé en français</a></h3>
 <br>
-<h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html"> Résumé en arabe</a>/<h3>
+<h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html"> Résumé en arabe</a></h3>
 <!--
 **resumefrancisJames/resumeFRANCISJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
