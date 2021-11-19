@@ -2,11 +2,11 @@
 
 Ressources :
 
-<h3 href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-Anglais.html">Résumé en anglais : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-Anglais.html</h3>
+<h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-Anglais.html">Résumé en anglais : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-Anglais.html</a></h3>
 <br>
-<h3 href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html">Résumé en français : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html</h3>
+<h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html">Résumé en français : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html</a>/h3>
 <br>
-<h3 href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html"> Résumé en arabe : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html</h3>
+<h3><a href="https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html"> Résumé en arabe : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html</a>/h3>
 <!--
 **resumefrancisJames/resumeFRANCISJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
