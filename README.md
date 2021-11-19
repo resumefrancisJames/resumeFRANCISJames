@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Ressources :
+
+Résumé en anglais : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-Anglais.html
+Résumé en français : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-fran%C3%A7aise.html
+Résumé en arabe : https://resumefrancisjames.github.io/resumeFRANCISJames/cv_james-arabe.html
 <!--
 **resumefrancisJames/resumeFRANCISJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
